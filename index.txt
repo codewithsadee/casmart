@@ -1,0 +1,277 @@
+Casmart - Biggest shopping center
+
+
+
+# HEADER
+
+placeholder = Search Product...
+
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
+
+alt = Casmart logo
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Sign in
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+Search
+
+<ion-icon name="cart-outline" aria-hidden="true"></ion-icon>
+Cart
+3
+
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+Wishlisht
+2
+
+aria-label = Open Menu
+
+alt = Casmart logo
+
+aria-label = Close Menu
+
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+Shop
+About
+Blog
+Contact
+
+
+
+# HERO
+
+Fashion Everyday
+
+Unrivalled Fashion House
+
+Shop Now
+
+
+
+# SERVICE
+
+alt = Service icon
+
+Free Shipping
+On All Order Over $599
+
+Easy Returns
+30 Day Returns Policy
+
+Secure Payment
+100% Secure Gaurantee
+
+Special Support
+24/7 Dedicated Support
+
+
+
+# CATEGORY
+
+alt = Sunglass & eye
+Sunglass & Eye
+
+alt = Active & outdoor
+Active & Outdoor
+
+alt = Winter wear
+Winter Wear
+
+alt = Exclusive footwear
+Exclusive Footwear
+
+alt = Jewelry
+Jewelry
+
+alt = Sports cap
+Sports Cap
+
+
+
+# PRODUCT
+
+Products of the week
+
+Best Seller
+Hot Collection
+Trendy
+New Arrival
+
+alt = Varsi Leather Bag
+
+-25%
+
+aria-label = Quick view
+<ion-icon name="eye-outline"></ion-icon>
+
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+Add to Cart
+
+alt = Add to Whishlist
+<ion-icon name="heart-outline"></ion-icon>
+
+Varsi Leather Bag
+
+&pound;48.75
+&pound;65.00
+
+
+alt = Fit Twill Shirt for Woman
+
+New
+
+Fit Twill Shirt for Woman
+
+62.00
+
+
+alt = Grand Atlantic Chukka Boots
+
+Grand Atlantic Chukka Boots
+
+32.00
+
+
+alt = Women's Faux-Trim Shirt
+
+Women's Faux-Trim Shirt
+
+84.00
+
+
+alt = Soft Touch Interlock Polo
+
+Soft Touch Interlock Polo
+
+45.00
+
+
+alt = Casmart Smart Watch
+
+Casmart Smart Watch
+
+30.00
+38.00
+
+
+alt = Casmart Smart Glass
+
+Casmart Smart Glass
+
+25.00
+39.00
+
+
+alt = Cotton Shirt for Men
+
+Cotton Shirt for Men
+
+85.00
+99.00
+
+
+alt = Double-breasted Blazer
+
+Double-breasted Blazer
+
+32.00
+
+
+alt = Ribbed Cotton Bodysuits
+
+New
+
+Ribbed Cotton Bodysuits
+
+71.00
+
+
+View All Products
+
+
+
+# BLOG
+
+Latest fashion news
+
+alt = Worthy Cyber Monday Fashion From Casmart
+
+<ion-icon name="folder-open-outline"></ion-icon>
+Fashion
+
+<ion-icon name="time-outline"></ion-icon>
+31 Mar 2021
+
+Worthy Cyber Monday Fashion From Casmart
+
+alt = Holiday Home Decoration I’ve Recently Ordered
+
+alt = Unique Ideas for Fashion You Haven’t heard yet
+
+
+
+# NEWSLETTER
+
+Subscribe Newsletter
+
+Enter your email below to be the first to know about new collections and product launches.
+
+<ion-icon name="mail-outline"></ion-icon>
+placeholder = Enter your email
+
+Subscribe
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+# FOOTER
+
+alt = Casmart logo
+
+Casmart is a fashion theme for presents a complete wardrobe of uniquely crafted Ethnic Wear, Casuals, Edgy Denims, & Accessories inspired from the most contemporary
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Information
+
+About Company
+Payment Type
+Awards Winning
+World Media Partner
+Become an Agent
+Refund Policy
+
+
+Category
+
+Handbags & Wallets
+Women's Clothing
+Plus Sizes
+Complete Your Look
+Baby Corner
+Man & Woman Shoe
+
+
+Help & Support
+
+Dealers & Agents
+FAQ Information
+Return Policy
+Shipping & Delivery
+Order Tranking
+List of Shops
+
+&copy; 2022 codewithsadee. All Rights Reserved
+
+Privacy Policy
+Terms & Conditions
+Sitemap
+
+We Support
+alt = online payment logos
