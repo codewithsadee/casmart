@@ -13,7 +13,7 @@
 
   <h2 align="center">Casmart - eCommerce website</h2>
 
-  Casmart is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Casmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/casmart/"><strong>➥ Live Demo</strong></a>
 
